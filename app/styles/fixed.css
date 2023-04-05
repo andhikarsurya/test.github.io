@@ -1,0 +1,20 @@
+﻿
+/*!
+This file is part of DecSoft App Builder.
+Visit our website for license information.
+Copyright ©2023 DecSoft. All rights reserved.
+Visit our website at: https://www.decsoftutils.com/
+
+*/
+
+
+html, body, .app-view { width: 1000px; height: 1000px; }
+.app-dialog .modal-dialog { margin: auto; width: 1000px; height: 1000px; }
+.app-dialog .modal-dialog .modal-content { width: 1000px; height: 1000px; }
+
+#ccc #button1 { position: absolute; top: 80px; left: 48px; width: 215px; height: 48px; }
+#ccc #button1 {color: #1da03a; opacity: 1; font: arial; font-family: Georgia, serif; font-size: 10; font-style: normal; font-weight: normal;}
+
+#ccc #input1 { position: absolute; top: 24px; left: 48px; width: 219px; height: 32px; }
+
+#ccc #label1 { position: absolute; top: 200px; left: 80px; width: 200px; height: 160px; }

@@ -1,0 +1,18 @@
+﻿
+/*!
+This file is part of DecSoft App Builder.
+Visit our website for license information.
+Copyright ©2023 DecSoft. All rights reserved.
+Visit our website at: https://www.decsoftutils.com/
+
+*/
+
+
+html, body { width: 1000px; height: 1000px; }
+
+#ccc #button1 { position: absolute; top: 16.67%; left: 15.00%; width: 67.19%; height: 10.00%; }
+#ccc #button1 {color: #1da03a; opacity: 1; font: arial; font-family: Georgia, serif; font-size: 10; font-style: normal; font-weight: normal;}
+
+#ccc #input1 { position: absolute; top: 5.00%; left: 15.00%; width: 68.44%; height: 6.67%; }
+
+#ccc #label1 { position: absolute; top: 20.00%; left: 8.00%; width: 20.00%; height: 16.00%; }
